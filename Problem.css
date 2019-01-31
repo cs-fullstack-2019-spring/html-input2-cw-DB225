@@ -1,0 +1,10 @@
+fieldset{
+    border: none;
+}
+
+input[type=submit]{
+    border: none;
+    font-weight: bold;
+    margin: 12px;
+    padding: 12px;
+}
